@@ -1,0 +1,14 @@
+{
+    "browsers": "chrome" , 
+    "reporter": {
+        "name": "html",
+        "output": "./report3.html"
+    },
+    "screenshots": {
+        "takeOnFails": true ,
+	"screenshotPath": "./screenshots/"
+    },
+	
+	"SkipJsErrors" : true   
+}
+
